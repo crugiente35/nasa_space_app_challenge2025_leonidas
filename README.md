@@ -21,7 +21,7 @@ LEON case is an innovative mobile phone case equipped with a built-in antenna, t
 
 ## Resources
 
-- [Figma design for the mobile app interface](https://www.figma.com/design/KqH3FP1OHw0CYHBdcnfnd2/LEON case?node-id=0-1&t=ym2wJnN8HWUXaBoY-1)
+- [Figma design for the mobile app interface](https://www.figma.com/design/KqH3FP1OHw0CYHBdcnfnd2/LEONcase?node-id=0-1&t=ym2wJnN8HWUXaBoY-1)
 - [Legacy satellite internet case specifications](https://www.thuraya.com/-/media/thuraya/rebranded/satsleeve---satellite-phone-comparison-sheet.ashx)
 - [Updated SatSleeve product sheet](https://www.thuraya.com/-/media/thuraya/rebranded/updated---jul-2023/satsleeve.ashx)
 - [Thuraya SatSleeve product page](https://www.thuraya.com/en/products-list/legacy/thuraya-satsleeve)
