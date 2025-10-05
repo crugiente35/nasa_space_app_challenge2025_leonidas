@@ -27,4 +27,3 @@ For real-time satellite visualization, the application uses:
 ## License
 
 This project is licensed under MIT License.
-
