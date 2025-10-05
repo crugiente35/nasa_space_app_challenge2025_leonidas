@@ -1,13 +1,13 @@
-# LEON: Satellite-Enabled Mobile Case
+# LEON case: Satellite-Enabled Mobile Case
 
-LEON is an innovative mobile phone case equipped with a built-in antenna, transforming any smartphone into a satellite-enabled device. This product allows users to make calls and access the internet via LEO (Low Earth Orbit) satellites, ensuring connectivity during emergencies such as power outages, floods, or conflicts.
+LEON case is an innovative mobile phone case equipped with a built-in antenna, transforming any smartphone into a satellite-enabled device. This product allows users to make calls and access the internet via LEO (Low Earth Orbit) satellites, ensuring connectivity during emergencies such as power outages, floods, or conflicts.
 ## Project Structure
 
 - **vue-satmap**:  
     Contains our custom-built web application developed with **Vue 3** and **Vite**. The app enables users to visualize real-time positions of satellite constellations over Earth. Users can customize the update interval for satellite tracking.
 
 - **3D_models**:  
-    Includes 3D models of the LEON mobile case, our core product.
+    Includes 3D models of the LEON case mobile case, our core product.
 
 - **design_thinking_canvas.pdf**:  
     This file contains our Design Thinking Canvas, summarizing the project's key ideas and approach.
@@ -21,7 +21,7 @@ LEON is an innovative mobile phone case equipped with a built-in antenna, transf
 
 ## Resources
 
-- [Figma design for the mobile app interface](https://www.figma.com/design/KqH3FP1OHw0CYHBdcnfnd2/LEON?node-id=0-1&t=ym2wJnN8HWUXaBoY-1)
+- [Figma design for the mobile app interface](https://www.figma.com/design/KqH3FP1OHw0CYHBdcnfnd2/LEON case?node-id=0-1&t=ym2wJnN8HWUXaBoY-1)
 - [Legacy satellite internet case specifications](https://www.thuraya.com/-/media/thuraya/rebranded/satsleeve---satellite-phone-comparison-sheet.ashx)
 - [Updated SatSleeve product sheet](https://www.thuraya.com/-/media/thuraya/rebranded/updated---jul-2023/satsleeve.ashx)
 - [Thuraya SatSleeve product page](https://www.thuraya.com/en/products-list/legacy/thuraya-satsleeve)
@@ -31,4 +31,4 @@ LEON is an innovative mobile phone case equipped with a built-in antenna, transf
 
 ---
 
-LEON: Stay connected when it matters most.
+LEON case: Stay connected when it matters most.
