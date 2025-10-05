@@ -1,7 +1,6 @@
 # LEOnidas: Satellite-Enabled Mobile Case
 
 LEOnidas is an innovative mobile phone case equipped with a built-in antenna, transforming any smartphone into a satellite-enabled device. This product allows users to make calls and access the internet via LEO (Low Earth Orbit) satellites, ensuring connectivity during emergencies such as power outages, floods, or conflicts.
-
 ## Project Structure
 
 - **vue-satmap**:  
@@ -9,6 +8,9 @@ LEOnidas is an innovative mobile phone case equipped with a built-in antenna, tr
 
 - **3D_models**:  
     Includes 3D models of the LEOnidas mobile case, our core product.
+
+- **design_thinking_canvas.pdf**:  
+    This file contains our Design Thinking Canvas, summarizing the project's key ideas and approach.
 
 ## Key Features
 
